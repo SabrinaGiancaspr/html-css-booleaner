@@ -51,4 +51,20 @@ h1{
 
 .first-row{
     background-color:#20A9E5;
+    color: white;
+    padding-right: 200px;
+}
+
+.first-row-special{
+    background-color:#20A9E5;
+    color: white;
+    padding-right: 600px;
+}
+ 
+.second-row-blue{
+    background-color: #B1E5F2;
+}
+
+.third-row{
+    background-color: #FFFFFF;
 }

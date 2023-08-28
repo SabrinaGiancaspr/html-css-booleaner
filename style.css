@@ -62,9 +62,9 @@ h1{
     padding: 15px;
 }
 
-/* .table, tr, th, td{ */
-   /* border: none; */
-/* } bordi bianchi */
+.table-no-border{
+    border-spacing: 0;
+}
 
 .first-row{
     background-color:#20A9E5;

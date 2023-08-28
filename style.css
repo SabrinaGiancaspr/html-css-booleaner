@@ -16,7 +16,7 @@ h1{
     color: #878787;
 }
 
-#blue-font{ 
+#blue-credit{ 
     font-size: 18px; 
     color: #40B5E9;
 }
@@ -35,18 +35,13 @@ h1{
     font-size: 14px;
 }
 
-.Lorem{
-    
-    margin-top: 15px;
-}
-
 #yellow-style{
    background-color: yellow; 
 }
 
 .unordered-list{
     margin-top: 15px;
-   padding: 15px;
+    padding: 15px;
 }
 
 .first-row{
@@ -58,13 +53,38 @@ h1{
 .first-row-special{
     background-color:#20A9E5;
     color: white;
-    padding-right: 600px;
+    width: 60%;
 }
  
-.second-row-blue{
+.background-blue{
     background-color: #B1E5F2;
 }
 
-.third-row{
+.background-white{
     background-color: #FFFFFF;
 }
+
+.grey-adv{
+    color: #808080;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.monitor-img{
+    color: white;
+    padding: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    background-image: url(./img/monitor.jpg);
+    width: 230px;
+    height: 180px;
+  }
+
+  .graph-img{
+    color: white;
+    padding: 5px;
+    line-height: 40px;
+    margin-top: 10px;
+    background-image: url(./img/graph.jpg);
+    width: 230px;
+    height: 180px;
+  }

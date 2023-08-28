@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 40px;
+}
+
+#credits, span{
+    font-size: 18px; 
+    color: #878787;
+}
+
+#blue-font{ 
+    color: #40B5E9;
+}
+
+#date{
+    font-size: 14px;
+    color: #878787;
+}
+
+.inline-pic{
+    
+}

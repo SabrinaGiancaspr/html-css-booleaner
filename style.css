@@ -1,18 +1,23 @@
-*{
+body{
+    font-size: 19px;
     margin: 0;
     padding: 0;
+    text-align: left;
+    padding: 5px;
 }
 
 h1{
     font-size: 40px;
+    margin: 0;
 }
 
-#credits, span{
+#credit{
     font-size: 18px; 
     color: #878787;
 }
 
 #blue-font{ 
+    font-size: 18px; 
     color: #40B5E9;
 }
 
@@ -22,5 +27,28 @@ h1{
 }
 
 .inline-pic{
+    display: inline-block;
+    margin-top: 16px;
+}
+
+.pic-credit{
+    font-size: 14px;
+}
+
+.Lorem{
     
+    margin-top: 15px;
+}
+
+#yellow-style{
+   background-color: yellow; 
+}
+
+.unordered-list{
+    margin-top: 15px;
+   padding: 15px;
+}
+
+.first-row{
+    background-color:#20A9E5;
 }
